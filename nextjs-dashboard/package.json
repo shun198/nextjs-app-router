@@ -30,7 +30,7 @@
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3",
-    "msw": "^2.10.2",
+    "msw": "^2.15.0",
     "msw-storybook-addon": "^2.0.5"
   },
   "pnpm": {
