@@ -51,8 +51,8 @@ importers:
         specifier: 7.0.2
         version: 7.0.2
       use-debounce:
-        specifier: ^10.0.4
-        version: 10.0.4(react@19.3.0)
+        specifier: ^10.1.1
+        version: 10.1.1(react@19.3.0)
       zod:
         specifier: ^3.25.17
         version: 3.25.17
@@ -3585,8 +3585,8 @@ packages:
     resolution: {integrity: sha512-oCwdVC7mTuWiPyjLUz/COz5TLk6wgp0RCsN+wHZ2Ekneac9w8uuV0njcbbie2ME+Vs+d6duwmYuR3HgQXs1fOg==}
     engines: {node: '>= 0.4'}
 
-  use-debounce@10.0.4:
-    resolution: {integrity: sha512-6Cf7Yr7Wk7Kdv77nnJMf6de4HuDE4dTxKij+RqE9rufDsI6zsbjyAxcH5y2ueJCQAnfgKbzXbZHYlkFwmBlWkw==}
+  use-debounce@10.1.1:
+    resolution: {integrity: sha512-kvds8BHR2k28cFsxW8k3nc/tRga2rs1RHYCqmmGqb90MEeE++oALwzh2COiuBLO1/QXiOuShXoSN2ZpWnMmvuQ==}
     engines: {node: '>= 16.0.0'}
     peerDependencies:
       react: '*'
@@ -7419,7 +7419,7 @@ snapshots:
       punycode: 1.4.1
       qs: 6.14.0
 
-  use-debounce@10.0.4(react@19.3.0):
+  use-debounce@10.1.1(react@19.3.0):
     dependencies:
       react: 19.3.0
 
